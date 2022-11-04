@@ -1,2 +1,2 @@
-# Lab4
-Lập kế hoạch cho một sprint của dự án
+# CNPM
+Bài tập Lab 4
